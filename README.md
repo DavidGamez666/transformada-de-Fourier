@@ -46,7 +46,7 @@ Asegúrate de tener instaladas las siguientes dependencias:
 pip install numpy matplotlib
 
 ---------------------------------------------------------------------------------------
-Autor: David Emmanuel Gámez Ibarra
-Materia: Señales y Sistemas — Ingeniería en Desarrollo de Software
-Universidad Ciudadana de Nuevo Leon 
+Autor: David Emmanuel Gámez Ibarra.
+Materia: Señales y Sistemas — Ingeniería en Desarrollo de Software.
+Universidad Ciudadana de Nuevo Leon. 
 Lenguaje: Python 3.10+
